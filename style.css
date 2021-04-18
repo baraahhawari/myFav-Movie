@@ -1,0 +1,49 @@
+/* 
+1. background color for the header
+1. h1 at the center of the page 
+1. making the li next to each other
+1. images size
+1. p sizes
+ */
+
+ header{
+   background-color: #fdca40;
+ }
+
+ h1{
+   color:#a799b7;
+   text-align:center;
+ }
+
+ nav ul li {
+   display: inline;
+   margin: 10px;
+ }
+
+ main article h4{
+   border: 1px solid black;
+   padding: 10px;
+   margin: 30px;
+ }
+
+ nav ul li a{
+   text-decoration:none;
+ }
+
+ main article img{
+   width:100%;
+   opacity: 1;
+ }
+
+#first_P{
+  color: #fb3640;
+}
+
+.restof_p{
+  font-size: 20px;
+  color:#542e71 ;
+}
+
+footer{
+  text-align: center;
+}
